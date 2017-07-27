@@ -301,6 +301,10 @@
 			</plugin>
 		</plugins>
 	</build>
-
+<settings>
+    <pluginGroups>
+        <pluginGroup>com.spotify</pluginGroup>
+    </pluginGroups>
+</settings>
 
 </project>
